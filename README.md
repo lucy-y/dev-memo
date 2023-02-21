@@ -1,2 +1,3 @@
-# TIL
-Today I Learned
+# dev-memo
+
+잊지말자..
