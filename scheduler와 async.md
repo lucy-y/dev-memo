@@ -23,4 +23,15 @@ public class Application {
 - 필요로 하는 메소드 위에 @Async 어노테이션 사용하면 된다.
 
 ## config
-- 작성필요
+- 스케줄러 필요하는 class
+- 스케줄러 config class
+~~~
+@Configuration
+public class 스케줄러Config implements AsyncConfigurer, SchedulingConfigurer {
+  public ThreadPoolTaskScheduler threadPoolTaskScheduler() {
+  ...
+  }
+  
+  // implements AsyncConfigurer, SchedulingConfigurer 내 메소드 @Override
+}
+~~~
