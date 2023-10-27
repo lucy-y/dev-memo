@@ -1,1 +1,2 @@
 [aws장비에_올린_css_내_font_cors_발생시](https://sustainable-dev.tistory.com/166)
+[공식문서](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/userguide/ManageCorsUsing.html#cors-allowed-methods)
