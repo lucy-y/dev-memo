@@ -2,7 +2,8 @@
 
 잊지말자..
 
-
+## 감명깊은 문서
+- [협업을 잘하는 개발자가 되어보자 - 프로그래머가 아니라 문제 해결사가 되자!](https://velog.io/@teo/collaboration)
 
 ## 읽으면 좋을 문서
 - [좋은 에러메세지 작성 방법](https://leo-bb.tistory.com/88)
