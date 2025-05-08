@@ -23,4 +23,10 @@ console.timeEnd('values-filter');
 ```
 filter: 14.096923828125 ms
 values-filter: 0.0439453125 ms
+
+filter: 15.927978515625 ms
+values-filter: 0.080078125 ms
+
+filter: 14.4619140625 ms
+values-filter: 0.01806640625 ms
 ```
